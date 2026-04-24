@@ -1,0 +1,5 @@
+outs:
+- md5: 8604ddf906b6f7029b3833bff8f9d5cb
+  size: 331
+  hash: md5
+  path: wine_prediction_model.csv
